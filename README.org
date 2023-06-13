@@ -1,0 +1,10 @@
+* slack-client
+
+Slack Real Time Messaging API Client
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kkazuo/slack-client.git   |
+| commit  | 58dcdf9  |
+| systems | slack-client |
+|---------+-------------------------------------------|
+
